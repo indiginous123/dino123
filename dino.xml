@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Boomerang">
+    <display-name lang="en">Boomerang</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="en">SYFY</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="en">Disney XD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="en">Cartoon Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime Showcase">
+    <display-name lang="en">Showtime Showcase</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Comedy">
+    <display-name lang="en">Starz Comedy</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Edge">
+    <display-name lang="en">Starz Edge</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Kids">
+    <display-name lang="en">Starz Kids</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Willow Cricket">
+    <display-name lang="en">Willow Cricket</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+</tv>
